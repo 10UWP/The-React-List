@@ -219,8 +219,13 @@ React Starter Kit is an opinionated boilerplate for web development built on top
 [UniversalRelayBoilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate) Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra, other databases.
 
 
+# Separate Tools and Libs
 
+[Redux Updeep](https://github.com/algolia/redux-updeep) "enforce immutability, update state with little boilerplate" redux-updeep is a small reducer generator that uses updeep to immutably deep merge partial updates into the reducer's state. It's great for reducing boilerplate in your redux actions and reducers!
 
+[Redux Observable](https://github.com/redux-observable/redux-observable) "easily compose anything async with RxJS" RxJS middleware for action side effects in Redux using "Epics" https://redux-observable.js.org - RxJS 5-based middleware for Redux. Compose and cancel async actions to create side effects and more.
+
+[Flow](https://github.com/facebook/flow) "forget about prop types, we want real types" Adds static typing to JavaScript to improve developer productivity and code quality. http://flowtype.org/ **Warning** Flow has a serious defect or faulty design that appears to prevent installation on a Windows computer. Very unprofessional in 2016 to not test a project on the O/S used by 95% of the human population. This project was added based on user-feedback to this list but until this defect is repaired, it's simply not usable.
 
 
 
