@@ -228,7 +228,58 @@ React Starter Kit is an opinionated boilerplate for web development built on top
 [Flow](https://github.com/facebook/flow) "forget about prop types, we want real types" Adds static typing to JavaScript to improve developer productivity and code quality. http://flowtype.org/ **Warning** Flow has a serious defect or faulty design that appears to prevent installation on a Windows computer. Very unprofessional in 2016 to not test a project on the O/S used by 95% of the human population. This project was added based on user-feedback to this list but until this defect is repaired, it's simply not usable.
 
 
+# A List of Lists
 
+### React Lists of Components
+- [React Components Catalog](https://github.com/brillout/awesome-react-components) Dedicated interface at devarchy.com/react-components
+- [React Components](https://github.com/sapegin/react-components) "Inspired by the awesome-react-components but lists only the components I use myself and can recommend"
+- [React Components](https://github.com/vaffel/react-components) Searchable repository of React-components http://react-components.com/ (Appears to be dead?)
+- [React component list](https://github.com/DveMac/react-component-list) NO LONGER MAINTAINED - Check out http://react-components.com/ or https://js.coach/react instead
+
+### React Misc
+- [The React List](https://github.com/10UWP/The-React-List) don't you hate people that use "this" everywhere in object programming as if they are completely lost about where their code exists in space and time? Well this entry is this.TheReactList so now I can properly hate myself and be ready for a Woody Allen movie.
+- [React Rocks](https://react.rocks/) Pinterst type display of a minor number of React thingies for unknown reasons.
+- [Redux Awesome](https://github.com/virtuaone/redux-awesome)
+- [React Redux Links](https://github.com/dagman/react-redux-links)
+- [React Howto](https://github.com/petehunt/react-howto)
+- [React for Beginners](https://github.com/siakaramalegos/react-for-beginners)
+- [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
+- [React Native Links](https://github.com/bozzmob/ReactNativeLinks)
+- [Web/React Animation Links](https://github.com/firedev/animation)
+- [React Examples](https://github.com/mikeperri/react-examples)
+- [The Debate Around “Do We Even Need CSS Anymore?”](https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/)
+- [Resources for the React + Meteor + FlowRouter stack](https://github.com/topaztee/JS-stack-resources#real-apps)
+- [Cheatsheet for React](http://ricostacruz.com/cheatsheets/react.html)
+- [React, Redux, and related tooling](https://github.com/samsch/js-app-learning)
+- [React Stack](https://github.com/alagiboy/react-stack)
+- [ReactJS-Resources](https://github.com/JonathanZWhite/ReactJS-Resources)
+- [react-resources](https://github.com/willklein/react-resources)
+- [React/Redux Resources](https://github.com/radiofreemattd/curated-redux-react-resources)
+- [React Resources and information](https://github.com/dannyvassallo/react-resources)
+- [react-resources](https://github.com/dbertella/react-resources)
+- [React Newsletter](http://reactjsnewsletter.com/) weekly newsletter of the best React.js news, articles, projects, and more - brought to you by React.js Program
+- [React FAQ](https://github.com/timarney/react-faq)
+- [RxJS + React/Flux Libraries](https://github.com/christianramsey/rx-react-flux)
+- [React/Redux Links](https://github.com/markerikson/react-redux-links)
+- [React-Resources](https://github.com/greggb/React-Resources)
+- [Awesome React](https://github.com/enaqx/awesome-react) long list
+- [Awesome React Talks](https://github.com/mightyCrow/awesome-react-talks)
+- [awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer)
+- [React form Comparison by Example](https://github.com/luqin/react-form-comparison)
+- [awesome-functional-reactive](https://github.com/xgrommx/awesome-functional-reactive) sometimes associated with React
+- [React Things](https://github.com/ericelliott/react-things)
+- [TDD / BDD React.js](https://github.com/Cmdv/Essential-TDD-BDD-React-list) for the Functionally masochistic 
+- [Awesome React](https://github.com/syossan27/awesome-react-me) React gets 2 Awesome lists!
+- [React in patterns](https://github.com/krasimir/react-in-patterns) List of design patterns/techniques used while developing with React
+- [React Learning](https://github.com/ericdouglas/react-learning)
+- [Rewrite of React.Parts](https://js.coach/) JS packages, mostly React
+
+### Plain Old Javascript
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) "Front End" has got to be the stupidest name of all time, grates on my nerves like fingernails on a blackboard every time I hear it. Essentially "Stupidity in a Bottle" in terms of encapsulating a definition of the programming of computers. But it's a nice long list...
+- [Frontend stuff](https://github.com/moklick/frontend-stuff) Yet another name devised by Darth Vader himself...
+- [Javascript Must Watch Videos](https://github.com/bolshchikov/js-must-watch) sensible name anyways
+- [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) assuming Awesome refers to the list or list maker since applying it to Javascript would create a paradox that could implode the Universe.
+- [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
 
 
 
