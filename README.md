@@ -106,6 +106,34 @@ When you are stuck using Javascript, React can help
 
 [Sitegen](https://github.com/andreypopp/sitegen) Generate websites by composing React components http://andreypopp.github.io/sitegen/ - Sitegen is a static site generator based on Webpack and React. Sitegen's motivation is to provide a framework for content based sites with simple API to take the advantage of React component model and rich Webpack ecosystem.
 
+
+# Converters
+
+[Import your old & busted site or blog for use with Jekyll](http://import.jekyllrb.com/) Wide Range of Available Importers - Converts Wordpress etc to Markdown files
+
+[React-Magic and HTMLtoJSX](https://github.com/reactjs/react-magic) Automatically AJAXify plain HTML with the power of React. It's magic!
+- React-Magic is an experimental library that uses the power of Facebook's React library to inject AJAX-loading goodness into plain old HTML webpages, without having to write any custom JavaScript. You can even use CSS transitions between the pages. Simply add a single script tag (or click a bookmarklet) and "it just works".
+- [HTMLtoJSX](http://magic.reactjs.net/htmltojsx.htm) is a component of React-Magic that converts HTML to JSX. It can be used standalone, either on the web or via Node.js.
+
+[html-to-react](https://github.com/aknuds1/html-to-react) A lightweight library that converts raw HTML to a React DOM structure.
+
+[html to React Components](https://github.com/roman01la/html-to-react-components) Extract annotated portions of HTML into React components as separate modules. http://roman01la.github.io/html-to-react-components/ This utility was designed to free React developers from a boring work of translating HTML into components.  Imagine you just got a pile of HTML from your designers. The first thing you will do is break HTML into React components. This is boring and we can automate this.
+
+[grunt-html2jsx](https://github.com/hemanth/grunt-html2jsx) Converts HTML to JSX for use with React.
+
+[Extract to React Chrome DevTools Plugin](https://github.com/jesstelford/extract-to-react) Chrome/Chromium extension for easy HTML to React conversion. Extract all the HTML & CSS of any portion of any website directly into a ready-to-go React Component! It is possible to split a monolithic component up into multiple nested components.
+
+[gulp-jsxify](https://github.com/parroit/gulp-jsxify) gulp plugin to convert html files to react jsx
+
+[HTML2React](https://github.com/Deschtex/html2react) A utility for turning raw HTML into React elements. If you want to take raw HTML, SVG or any arbitrary XML and turn it into something that you can use in a React application, without using dangerouslySetInnerHTML, then you can simply pass it to html2react: A powerful feature of html2react is the ability to target elements in the provided HTML and override them with React components, using nothing but CSS selectors for the mapping. Super simple! The following example maps any <a> tag in the HTML to the local Link component:
+
+[React HTML Parser](https://github.com/wrakky/react-html-parser) Converts HTML string directly into React components avoiding the need to use dangerouslySetInnerHTML]()
+
+[reacterminator](https://github.com/poetic/reacterminator) Reacterminator converts html into es6 react components. To get started, annotate your html tags with several simple data attributes that reacterminator recognizes. For example, you can add a data-component-name attribute to your html to let reacterminator know that it is a react component:
+
+
+
+
 # Starter Kits and Boilerplates
 
 [ASP.NET Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) Cross-platform web development with Visual Studio Code, C#, F#, JavaScript, ASP.NET Core, EF Core, React (ReactJS), Redux, Babel. Single-page application boilerplate. https://twitter.com/dotnetreact
