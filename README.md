@@ -20,10 +20,55 @@ When you are stuck using Javascript, React can help
 -    Intuitive directory-based URLs. The URL of a page is derived from its spot on the file system.
 -    Support "Starters" — install starter sites directly from Github. Use open sourced starters or build your own.
 
+### Gatsby Tools:
+[Import your old & busted site or blog for use with Jekyll](http://import.jekyllrb.com/) Wide Range of Available Importers - Converts Wordpress etc to Markdown files suitable for Gatsby
+
+[gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) The default Gatsby starter http://gatsbyjs.github.io/gatsby-starter-default/
+
+[Lumen](https://github.com/wpioneer/gatsby-starter-lumen) Simple starter for Gatsby http://wpioneer.github.io/gatsby-starter-lumen/
+
+[gatsby-starter-drunkenblog](https://github.com/konsumer/gatsby-starter-drunkenblog) A gatsby starter blog with a few more frills.
+
+[gatsby-starter-documentation](https://github.com/gatsbyjs/gatsby-starter-documentation)
+
+[gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) Gatsby starter for creating a blog http://gatsbyjs.github.io/gatsby-starter-blog/ Install this starter (assuming Gatsby is installed) by running from your CLI: gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog
+
+[gh-pages](https://www.npmjs.com/package/gh-pages) Publish to a gh-pages branch on GitHub (or any other branch on any other remote)
+
+[markdown-it](https://github.com/markdown-it/markdown-it) Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed https://markdown-it.github.io  [Markdown-it Plugins](https://www.npmjs.com/browse/keyword/markdown-it-plugin)
+
+[Webpack Plugins](https://webpack.github.io/docs/list-of-plugins.html)
+
+[Webpack Configurator](https://github.com/lewie9021/webpack-configurator) Utility library for creating and extending Webpack configuration structures.
+
+[Webpack List of Loaders](https://webpack.github.io/docs/list-of-loaders.html)
+- [SVG to React Loader](https://github.com/jhamlet/svg-react-loader)
+- [svg-as-symbol-loader](https://github.com/bhovhannes/svg-as-symbol-loader)
+- [Icons loader (generate iconfonts for webpack)](https://www.npmjs.com/package/icons-loader)
+- [inline markups to HTML: SVG, MathML, etc](https://www.npmjs.com/package/markup-inline-loader)
+- [React Hot Loader](https://github.com/gaearon/react-hot-loader) Tweak React components in real time. http://gaearon.github.io/react-hot-loader/
+- [line-art-loader](https://github.com/tptee/line-art-loader) A Webpack loader that inlines SVG files, converting all of its nodes to paths. Useful for line art animations.
+- [react-templates loader for webpack](https://github.com/AlexanderPavlenko/react-templates-loader)
+- [React Markdown](https://github.com/javiercf/react-markdown-loader) This loader parses markdown files and converts them to a React Stateless Component. It will also parse FrontMatter to import dependencies and render components along with it’s source code. We developed this loader in order to make the process of creating styleguides for React components easier
+
+[A Step-by-Step Guide: Gatsby on Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/)  Today, we’re going to look at how to host a website built with Gatsby on Netlify, including setting up continuous deployment. Gatsby is a new static site generator, but it’s gaining traction fast! It’s made in what’s probably the only thing as hot as Google’s ‘go’ right now, React.js. React is a hugely popular javascript framework out of Facebook.
+
+[Hosting GatsbyJS - A React Static Site Generator](https://www.aerobatic.com/blog/gatsbyjs) Gatsby transforms plain text into dynamic blogs and websites using the latest web technologies. It’s easy to get started with — and host on Aerobatic. I’ll go over why you should consider it, and how to get it up and running quickly with Aerobatic.
+
+[blog.scottnonnenberg.com](https://github.com/scottnonnenberg/blog) 
+- More on how to use this project: https://blog.scottnonnenberg.com/this-blog-is-now-open-source/ 
+- [Static site generation with Gatsby.js](https://blog.scottnonnenberg.com/static-site-generation-with-gatsby-js/)
+- [Practical Gatsby.js](https://blog.scottnonnenberg.com/practical-gatsby-js/)
+
+
+### Relax
+
 [Relax](https://github.com/relax/relax) New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin
 
 - Relax is a powerful new generation CMS on top of React and Node.js which aims for a better way of building websites.
 - It features a live page builder based on components and a smart and easy way of binding dynamic data to them.
+
+### Boldr
 
 [Boldr](https://github.com/boldr/boldr) Universal React CMS. Built for the modern developer. React, Postgres, Express, Webpack 2 and Docker. https://staging.boldr.io
 
