@@ -70,9 +70,41 @@ When you are stuck using Javascript, React can help
 - Relax is a powerful new generation CMS on top of React and Node.js which aims for a better way of building websites.
 - It features a live page builder based on components and a smart and easy way of binding dynamic data to them.
 
+### Phenomic
+
+[Phenomic](https://github.com/MoOx/phenomic)  😱 Modern static* website generator based on the React and Webpack ecosystem ✨ https://phenomic.io/ 
+
+- [How to setup Phenomic](https://phenomic.io/docs/setup/)
+- [Getting started with Phenomic](https://phenomic.io/docs/getting-started/)
+- [See who's using Phenomic](https://phenomic.io/showcase/)
+
+[What are the differences with Gatsby?](https://phenomic.io/docs/faq/gatsby/)
+- Phenomic will load pages data on demand only so it can be used for website/app with a lot of pages/screen.
+- Phenomic offers offline browsing via Service Worker.
+- Phenomic uses peer dependencies so you have total control over the dependencies. You will never have to wait to use latest React version if it's compatible with your code and Phenomic requirements (eg: React 0.14 or 15.0, you decide).
+- Phenomic does not have any "optional" dependencies as a real dependency. For example, Gatsby has in it's dependencies LESS, Sass and PostCSS (yeah maybe that's too much). By default, Phenomic will just install PostCSS (since it's required in the phenomic-theme-base), but you can remove it (since it will be added in your package.json) and replace with any dependency you want (or none).
+- Phenomic is covered by a lot of automated unit, integration and functional tests to avoid bugs and regressions.
+
 ### Boldr
 
 [Boldr](https://github.com/boldr/boldr) Universal React CMS. Built for the modern developer. React, Postgres, Express, Webpack 2 and Docker. https://staging.boldr.io
+
+### Antwar
+
+[Antwar](https://github.com/antwarjs/antwar) A static site generator built with React and Webpack. http://antwarjs.github.io/ - [Getting Started](http://antwarjs.github.io/docs/getting-started/)
+
+### react2html
+
+[react2html](https://github.com/modesty/react2html) A component based web site starter kit and build tool, built with ReactJS, SASS, Babel, WebPack and Node.js.
+- React2Html is a component based web site starter kit and build tool. It enables build-time data-driven reusable components for building multi-page website with compsability and efficiency, powered by ReactJS, SASS, Babel, WebPack and Node.js.
+- Component Based Web Application prompts data-driven reusable components for developing web applications. React2Html is a starter kit and build tool to enable component based development for web sites: static web site or service oriented HTML application can utilize the same data driven reusable component model to improve the effectiveness of site development and updates. 
+- With React2Html, a multi-page static site can be built by composing reusable functional stateless components, then generates HTML with data models through build process. Runtime model update (user interactions or Ajax) and rendering through Virtual DOM has been covered very well in React.js, it's optional with React2HTML: in addition to 'react to changes' at run time, React2Html focus on build-time component re-usability. 
+
+
+
+### Sitegen
+
+[Sitegen](https://github.com/andreypopp/sitegen) Generate websites by composing React components http://andreypopp.github.io/sitegen/ - Sitegen is a static site generator based on Webpack and React. Sitegen's motivation is to provide a framework for content based sites with simple API to take the advantage of React component model and rich Webpack ecosystem.
 
 # Starter Kits and Boilerplates
 
