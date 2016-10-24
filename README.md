@@ -180,6 +180,25 @@ React Starter Kit is an opinionated boilerplate for web development built on top
 -    react-native-fbsdk For Facebook Login in React Native. Follow the readme install notes.
 -    And much more. Explore the repository.
 
+[react boilerplate](https://github.com/mxstbr/react-boilerplate)  🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices. http://reactboilerplate.com Start your next react project in seconds A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
+- Quick scaffolding - Create components, containers, routes, selectors and sagas - and their tests - right from the CLI!
+- Instant feedback -    Enjoy the best DX (Developer eXperience) and code your app at the speed of thought! Your saved changes to the CSS and JS are reflected instantaneously without refreshing the page. Preserve application state even when you update something in the underlying code!
+- Predictable state management - Unidirectional data flow allows for change logging and time travel debugging.
+- Next generation JavaScript - Use template strings, object destructuring, arrow functions, JSX syntax and more, today.
+- Next generation CSS - Write composable CSS that's co-located with your components for complete modularity. Unique generated class names keep the specificity low while eliminating style clashes. Ship only the styles that are on the page for the best performance.
+- Industry-standard routing -  It's natural to want to add pages (e.g. `/about`) to your application, and routing makes this possible.
+- Industry-standard i18n internationalization support -   Scalable apps need to support multiple languages, easily add and support multiple languages with `react-intl`.
+- Offline-first - The next frontier in performant web apps: availability without a network connection from the instant your users load the app.
+- SEO - We support SEO (document head tags management) for search engines that support indexing of JavaScript content. (eg. Google)
+-    The best test setup: Automatically guarantee code quality and non-breaking changes. (Seen a react app with 99% test coverage before?)
+-    Native web app: Your app's new home? The home screen of your users' phones.
+-    The fastest fonts: Say goodbye to vacant text.
+-    Stay fast: Profile your app's performance from the comfort of your command line!
+-    Catch problems: AppVeyor and TravisCI setups included by default, so your tests get run automatically on Windows and Unix.
+- There’s also a fantastic [video](https://vimeo.com/168648012) on how to structure your React.js apps with scalability in mind. It provides rationale for the majority of boilerplate's design decisions.
+
+
+
 [typescript-react-redux-starter](https://github.com/rangle/typescript-react-redux-starter) Typescript, React, Redux, Webpack starter kit
 
 [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) This starter kit is designed to get you up and running with a bunch of awesome new front-end technologies, all on top of a configurable, feature-rich webpack build system that's already setup to provide hot reloading, CSS modules with Sass support, unit testing, code coverage reports, bundle splitting, and a whole lot more.
