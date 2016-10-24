@@ -311,6 +311,47 @@ React Starter Kit is an opinionated boilerplate for web development built on top
 
 [UniversalRelayBoilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate) Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra, other databases.
 
+# Yo Generators
+
+[generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack)  Yeoman generator for ReactJS and Webpack http://newtriks.com/2013/12/31/automating-react-with-yeoman-and-grunt/  Generator-React-Webpack will help you build new React projects using modern technologies. Out of the box it comes with support for:
+-    Webpack
+-    ES2015 via Babel-Loader
+-    Different supported style languages (sass, scss, less, stylus)
+-    Style transformations via PostCSS
+-    Automatic code linting via esLint
+-    Ability to unit test components via Karma and Mocha/Chai
+
+Generators that extend generator-react-webpack
+-    [Generator-React-Webpack-Alt](https://github.com/weblogixx/generator-react-webpack-alt) (Adds ability to create actions, stores and sources for [alt.js](http://alt.js.org/))
+-    [Generator-React-Webpack-Redux](https://github.com/stylesuxx/generator-react-webpack-redux) (Adds ability to create actions and reducers for [Redux](https://github.com/rackt/redux))
+
+
+
+[generator-react-library](https://github.com/petehunt/generator-react-library) Yeoman generator for React components
+
+[generator-react-gulp-browserify](https://github.com/randylien/generator-react-gulp-browserify) A Yeoman Generator for facebook's React library. It includes gulp, browserify, livereload and famous official Twitter bootstrap Sass version
+-    Added watchify support
+-    We use browserify extension instead of gulp extension
+-    Autorun bower install & npm install by default
+-    Gulp
+-    Bower
+-    jQuery (optional)
+-    Browserify
+-    Reactify - (removed)
+-    Babelify Help to transform JSX (consider to use babelify later)
+-    Watchify support! (Sourcemap also!)
+-    livereload (BrowserSync)
+-    jshintrc file (although eslint is much better)
+- To be added - React Bootstrap instead of Sass Bootstrap
+-    Sass with Compass
+-    Bootstrap - Twitter Bootstrap's official Sass version
+-    Modernizr
+-    Jade for HTML templates (deprecated used React JSX instead)
+-    CoffeeScript for JavaScript (deprecated use React JSX instead)
+-    Jest for unit tests
+
+
+[generator-speedseed](https://github.com/ifedu/generator-speedseed) Oriented to components, allow create/choice template - Multi-Tic-Tac-Toe/TodoMVC - AngularJS/Angular2/jQuery/Polymer/React/VanillaJS - BabelJS/CoffeeScript/TypeScript - Mocha/Jasmine - SaSS/ScSS/LeSS/Stylus - Jade/HTML - Gulp + Yeoman
 
 # Separate Tools and Libs
 
@@ -319,6 +360,93 @@ React Starter Kit is an opinionated boilerplate for web development built on top
 [Redux Observable](https://github.com/redux-observable/redux-observable) "easily compose anything async with RxJS" RxJS middleware for action side effects in Redux using "Epics" https://redux-observable.js.org - RxJS 5-based middleware for Redux. Compose and cancel async actions to create side effects and more.
 
 [Flow](https://github.com/facebook/flow) "forget about prop types, we want real types" Adds static typing to JavaScript to improve developer productivity and code quality. http://flowtype.org/ **Warning** Flow has a serious defect or faulty design that appears to prevent installation on a Windows computer. Very unprofessional in 2016 to not test a project on the O/S used by 95% of the human population. This project was added based on user-feedback to this list but until this defect is repaired, it's simply not usable.
+
+[React Codemirror](https://github.com/JedWatson/react-codemirror) The excellent CodeMirror editor as a React.js component. Live demo: JedWatson.github.io/react-codemirror
+
+[React Styleguidist](https://github.com/sapegin/react-styleguidist)  React Styleguidist is a style guide generator for React components. It lists component propTypes and shows live, editable usage examples based on Markdown files. You can use it to generate a static HTML page to share and publish or as a workbench for developing new components using hot reloaded dev server. [Check out the demo style guide](http://sapegin.github.io/react-styleguidist/). Based on Webpack, webpack-dev-server and Babel.
+
+[markdown-to-react-components](https://github.com/christianalfoni/markdown-to-react-components) There are several projects that claims to convert markdown using React, but that is not exactly right. They produce one single React component with some plain markdown converted HTML in it. They do not produce React components of the markdown syntax. But this project does!
+
+[React Storybook](https://github.com/kadirahq/react-storybook)  React Storybook is a UI development environment for your React components. With it, you can visualize different states of your UI components and develop them interactively.  React Storybook runs outside of your app. So you can develop UI components in isolation without worrying about app specific dependencies and requirements.  For more information visit: https://getstorybook.io React Storybook also comes with a lot of addons and a great API to customize as you wish. You can also build a static version of your storybook and deploy it anywhere you want.
+
+[component-playground](https://github.com/FormidableLabs/component-playground) A component for rendering React components with editable source and live preview https://formidable.com/open-source/component-playground/
+
+
+[React Hot Loader](https://github.com/gaearon/react-hot-loader) Tweak React components in real time. http://gaearon.github.io/react-hot-loader/  React Hot Loader 3 is on the horTweak React components in real time. http://gaearon.github.io/react-hot-loader/  izon, and you can try it today (boilerplate branch, upgrade example). It fixes some long-standing issues with both React Hot Loader and React Transform, and is intended as a replacement for both. The docs are not there yet, but they will be added before the final release. For now, this commit is a good reference.
+
+[React Developer Tools](https://github.com/facebook/react-devtools) An extension that allows inspection of React component hierarchy in Chrome Developer Tools. React Developer Tools is a system that allows you to inspect a React Renderer, including the Component hierarchy, props, state, and more. There are shells for Chrome (adding it to the Chrome devtools), Firefox, Atom/Nuclide, and as a standalone Electron app.
+
+
+[Spectacle Editor](https://github.com/FormidableLabs/spectacle-editor)  Drag and drop Spectacle editor. https://formidable.com/open-source/spectacle-editor/  An Electron based app for creating, editing, saving, and publishing Spectacle presentations. With integrated Plotly support.  This project is a joint effort between Formidable and Plotly. [docs](https://github.com/FormidableLabs/spectacle-editor-docs)
+
+[Structor - visual editor for React components](https://github.com/ipselon/structor)  An advanced visual editor for React components https://helmetrex.com
+
+
+[React Cosmos](https://github.com/skidding/react-cosmos) DX tool for designing truly encapsulated React components. https://www.youtube.com/watch?v=t9V2oKK83Kg Cosmos scans your project for React components and loads them inside the Component Playground, enabling you to:
+- Render your components under any combination of props and state
+- See component states evolve in real-time as you interact with running instances
+- Working with Cosmos improves the component design because it surfaces any implicit dependencies. It also forces you to define sane inputs for every component, making them more predictable and easier to debug down the road.
+
+
+[nwb](https://github.com/insin/nwb) Create React apps, components, libraries and other npm modules for use on the web with no configuration (until you need it) nwb provides tooling in a single devDependency for developing, testing and building:
+-   React Apps
+-    React Components and Libraries
+-    npm Modules for the Web
+
+A zero-config development setup is provided for these projects, but nwb also supports configuration and plugin modules which add extra functionality (e.g. Sass support), should you need them
+
+[Live Code Editor](https://github.com/Khan/live-editor) This is the live coding environment developed for the Khan Academy Computer Programming curriculum. It gives learners an editor on the left (either ACE or our Blocks-based drag-and-drop editor) and an output on the right (either JS+ProcessingJS, HTML, or SQL). Here's a tour of how it's used on KA. You can find various demos in the demos/ directory, and start playing immediately with the simple demo:  http://khan.github.io/live-editor/demos/simple/
+
+
+[Create React App](https://github.com/facebookincubator/create-react-app) Create React apps with no build configuration.
+-    [Getting Started](https://github.com/facebookincubator/create-react-app#getting-started) – How to create a new app.
+-    [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) – How to develop apps bootstrapped with Create React App.
+
+[create-react-app-now](https://github.com/xkawi/create-react-app-now) Hello, create-react-app, meet Zeit's awesome now.sh service. https://create-react-app.now.sh Deploy React.js Static Web Apps generated with facebookincubator/create-react-app to Zeit's awesome now.sh service. I wrote an article about this project here: [Zero Configuration Deployment for React app with Zeit Now](https://medium.com/@kawixiao/zero-configuration-deployment-for-react-apps-with-zeits-now-4f002be98c#.eyvj3mjdb)
+
+This project is created using [facebookincubator/create-react-app](https://github.com/facebookincubator/create-react-app). Although it supports deployment to github pages and heroku, it does not feel intuitive just yet, as we need to run lots of commands.  This project is specifically to solve just that, with just 1 command: npm run deploy - This is achieved by using Zeit's awesome [now.sh](https://zeit.co/now/) service. It is fast, easy, and intuitive way of deploying your React app.
+
+[JSX to React](https://github.com/delvallejonatan/jsx-to-react)  JSX to React live compiler http://jsxtoreact.host JSX to React live compiler transforms from an XML-like syntax into native JavaScript. XML elements, attributes and children are transformed into arguments that are passed to React.createElement. You don't have to use JSX with React. You can just use plain JS. This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and use Babel REPL to compile JSX to React elements.
+
+
+[tarec](https://github.com/geowarin/tarec) The Awesome REact Cli http://geowarin.github.io/tarec/ Tarec takes care of your React build for you. No more googling and stitching boilerplates together. Just write your application.
+
+[React-designer](https://github.com/fatiherikli/react-designer) Easy to configure, lightweight, editable vector graphics in your react components. http://fatiherikli.github.io/react-designer/  
+-    Supports polygon and shape designing (with bezier curves)
+-    Implemented default scale, rotate, drag, and arrange actions
+-    Custom object types and custom panels
+- Examples and demonstration: http://fatiherikli.github.io/react-designer
+
+
+[Nuclide](https://github.com/facebook/nuclide) An open IDE for web and native mobile development, built on top of Atom http://nuclide.io Nuclide is a collection of features for [Atom](https://atom.io/) to provide IDE-like functionality for a variety of programming languages and technologies. Has [Flow](https://nuclide.io/docs/languages/flow/)
+
+
+[Atom React Plugin](http://orktes.github.io/atom-react/)
+
+
+
+[MediumEditor](https://github.com/yabwe/medium-editor) Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution. https://yabwe.github.io/medium-editor/
+
+
+[Universe Markdown Wysiwyg](https://github.com/cristo-rabani/meteor-universe-react-markdown-wysiwyg)  A few of react components, that providing visual editor of markdown and Html for Meteor https://atmospherejs.com/universe/react-markdown-wysiwyg
+
+[React JS Froala WYSIWYG Editor](https://github.com/froala/react-froala-wysiwyg) React component for Froala WYSIWYG HTML Rich Text Editor. https://froala.com/wysiwyg-editor
+
+
+[react-json-edito](https://github.com/dustingetz/react-json-editor)  A generic JSON editor, specifically designed for attaching to React state values.
+
+[react-blessed](https://github.com/Yomguithereal/react-blessed) A React custom renderer for the blessed library. This renderer should currently be considered as experimental, is subject to change and will only work with the React's latest version (0.14.x).
+
+
+[react-blessed-hot-motion](https://github.com/gaearon/react-blessed-hot-motion) This is a demo of a custom [React Blessed](https://github.com/Yomguithereal/react-blessed/) console renderer (warning: very early preview, many things don’t work) using React Motion for animation, and Webpack for listening to code hot updates.
+
+[babel-plugin-react-transform](https://github.com/gaearon/babel-plugin-react-transform/) This Project Is Deprecated  - React Hot Loader 3 is on the horizon, and you can try it today (boilerplate branch, upgrade example). It fixes some long-standing issues with both React Hot Loader and React Transform, and is intended as a replacement for both. The docs are not there yet, but they will be added before the final release. For now, this commit is a good reference.
+
+
+[atellier](https://github.com/scup/Atellier) The smartest way to share interactive components with your team. http://scup.github.io/atellier/ A React component that works like a preview of other components. An excellent tool to show how your component works and looks with. Easy to install and configure, you can have a router in your project with Atellier and can interact with any component. Imagine a universe in which you may have tools (components) tested in real time! This is amazing!  [Online Demo Atellier and Material UI](http://scup.github.io/atellier/material-ui-atellier/)
+
+[]()
+
 
 
 # A List of Lists
