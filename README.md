@@ -577,7 +577,7 @@ This project is created using [facebookincubator/create-react-app](https://githu
 - [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
 
 
-# Editors
+# Editors)
 
 First, a list of Javascript and WYSIWYG editors. Then I plan to add notes on React support over time
 
@@ -592,6 +592,31 @@ First, a list of Javascript and WYSIWYG editors. Then I plan to add notes on Rea
 
 
 ## Edit 3 - Desktop WYSIWYG Editors
+
+[Adobe Muse](http://muse.adobe.com/) WEB DESIGN - EASY BREEZY - NO CODE REQUIRED - Complete freeform control, so you can think visually and easily express creative ideas. Your sites will look and behave as intended on all popular browsers and devices. Instant access to your fonts, graphics, photos, vectors, and colors with CC Libraries
+
+[Google Web Designer](https://www.google.com/webdesigner/index.html)  Bring ideas to life across screens - Creae engaging, interactive HTML5-based designs and motion graphics that can run on any device. Let us handle the HTML5 and CSS3 so you’re free to focus on what you love to do: creating gorgeous visual experiences. A full design suite lets you easily bring any vision to life. If you’re feeling more hands-on, all the code behind your designs is hand-editable, so you’re never locked out of your own work. Your ideas are now amplified by code – not restricted by it. Google Web Designer gives you the power to create beautiful, engaging HTML5 content. Use animation and interactive elements to bring your creative vision to life, and enjoy seamless integration with other Google products, like Google Drive, DoubleClick Studio, and AdWords. 
+
+[Xara Web Designer](http://www.magix.com/us/xara-web-designer/) Share your experiences, ideas, or business projects with the world. A few steps is all it takes to easily create your very own website – and there’s no programming skills required. There are tons of templates and design elements to choose from and no restrictive grid system, so your design will always be exactly the way you imagined it.
+Over 200 industry-specific website templates Over 600 fonts available Complete design freedom for arranging elements No programming skills required Search engine optimization and web statistics Edit online together with your collaborators, from any device Features for creating and integrating supersites for presentations, flyers etc. Advanced image editing Create your own animations & effects
+
+Over 200 industry-specific website templates Over 600 fonts available Complete design freedom for arranging elements No programming skills required Search engine optimization and web statistics Edit online together with your collaborators, from any device Features for creating and integrating supersites for presentations, flyers etc. Advanced image editing Create your own animations & effects Includes 2,000 MB of web storage and a domain*
+
+
+[Artiseer](http://www.artisteer.com/) Artisteer - Automated Web Designer - Artisteer is the first and only Web design automation product that instantly creates fantastic looking, unique website templates and blog themes.
+-    Design awesome blogs and cool web templates in minutes
+-    Export to Blogger, Joomla, Wordpress and other CMS products
+-    No need to learn Photoshop, CSS, HTML or other technologies
+-    Preview, download and edit online website and template samples!
+Artisteer 4.3 - Quick and easy-to-use web design generator for Windows with hundreds of design options and export to WordPress, Joomla, Drupal, DotNetNuke and Blogger. Instantly become a Web Design expert, editing graphics, coding, and creating joomla templates, drupal themes, wordpress themes, DNN skins, and blogger templates all in minutes, without Photoshop or Dreamweaver, and no technical skills.
+
+Themler - Try the most powerful CMS theme designer on the planet. Build themes for your website or for sale. Works directly within your CMS. Create Amazing CMS Themes Without Coding - The most powerful Theme Design Environment that lets you further customize your themes and templates and add advanced features to WordPress, Joomla, Drupal themes. Themler also works with e-commerce systems like Magento, wooCommerce, VirtueMart and PrestaShop! When Artisteer is not enough, export your designs to Themler and continue adding advanced features like transitions and animations, parallax, multiple page templates and more. Now you can master the power of design, no matter how simple or complex!
+
+[WebSite X5](http://www.websitex5.com/en/) One software. No fees. Endless possibilities. WebSite X5 is the best software to create websites saving time and effort. Install the program on your computer and build everything in 5 steps. Create compelling corporate sites, sell online or start your own blog. With WebSite X5 you can even work offline. Anytime, anywhere. At home, on holiday or even on a desert island. You've got all you need to create a professional website on your own without knowing how to code. And no monthly fees. 500 templates. Pick yours. Dozens of ready-to-use free templates that you can customize to suit your needs. Tons of website ideas made to measure for Entrepreneurs, Professionals, Freelance Designers, Photographers, Associations, Online Stores. 
+
+
+[WYSIWYG Web Builder 11 ](http://wysiwygwebbuilder.com/)
+
 
 
 
