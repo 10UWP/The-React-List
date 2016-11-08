@@ -577,16 +577,63 @@ This project is created using [facebookincubator/create-react-app](https://githu
 - [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
 
 
-# Editors)
+# Editors
 
 First, a list of Javascript and WYSIWYG editors. Then I plan to add notes on React support over time
 
 ## Edit 1 - Desktop Javascript Editors
 
+[Adobe Dreamweaver](http://www.adobe.com/products/dreamweaver.html)
+- [Emmet for Dreamweaver](https://github.com/emmetio/dreamweaver#readme)
+
+[Brackets](http://brackets.io/)
+- [Recommended Brackets Extensions](https://johnpapa.net/my-recommended-brackets-extensions/)
+- [Brackets Info](https://www.granneman.com/webdev/editors/brackets/)
+- [Emmet plugin for Brackets editor](https://github.com/emmetio/brackets-emmet#readme)
+
+[Aptana Studio](http://www.aptana.com/products/studio3)
+
+[Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs.
+- [Learning Visual Studio Code](https://johnpapa.net/learning-visual-studio-code/)
+
+[Visual Studio 2015](https://www.visualstudio.com/vs/community/) A fully-featured, extensible, free IDE for creating modern applications for Android, iOS, Windows, as well as web applications and cloud services.
+
+[Light Table](http://lighttable.com/)
+
+[KodeWeave](https://mikethedj4.github.io/kodeWeave/)
+
+[Atom](https://atom.io/)
+- [Emmet for Atom](https://github.com/emmetio/emmet-atom#readme)
+
+[WebStorm](https://www.jetbrains.com/webstorm/)
+
 [WeBuilder](http://www.webuilderapp.com/editions.php)
+
+[Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) 
+- [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
+
+[Notepad++](https://notepad-plus-plus.org/)
+- [Emmet for Notepad++](https://github.com/emmetio/npp#readme)
 
 
 ## Edit 2 - Online Javascrpt Editors
+
+[SourceLair](https://www.sourcelair.com/home)
+
+[Cloud9](https://c9.io/))
+
+[Codeanywhere](https://codeanywhere.com/)
+
+[ICEcoder](https://icecoder.net/)
+
+[codio](https://codio.com/features/)
+
+[Liveweave](http://liveweave.com/)
+
+[Rendera](http://rendera.herokuapp.com/)
+
+[CodePen](http://codepen.io/#)
+
 
 
 
@@ -669,7 +716,7 @@ Zero code or design skills required. Trusted by millions of entrepreneurs and cr
 
 [SiteCube](http://www.sitecube.com/)
 
-[Wix](http://www.wix.com/) t All Starts with Your Stunning Website
+[Wix](http://www.wix.com/) - It All Starts with Your Stunning Website
 
 Wix unites beauty and advanced technology to create your stunning website. It’s easy and free.
 
