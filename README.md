@@ -583,7 +583,7 @@ First, a list of Javascript and WYSIWYG editors. Then I plan to add notes on Rea
 
 ## Edit 1 - Desktop Javascript Editors
 
-
+[WeBuilder](http://www.webuilderapp.com/editions.php)
 
 
 ## Edit 2 - Online Javascrpt Editors
@@ -616,7 +616,31 @@ Themler - Try the most powerful CMS theme designer on the planet. Build themes f
 
 
 [WYSIWYG Web Builder 11 ](http://wysiwygwebbuilder.com/)
+• Visually design your website (What-You-See-Is-What-You-Get).
+• No HTML knowledge required! Just drag & drop objects to the page!
+• Outputs standard HTML4, HTML5, XHTML, CSS3, PHP.
+• Responsive Web Design
+• HTML5 Audio/Video, YouTube, Flash Video and more!
+• Slidehows, photo galleries, rollover images, rollover text.
+• Navigation bars, Menu bar and many other navigation options.
 
+[openElement](http://www.openelement.com/)
+-Intuitive interface  ·  Everything is editable
+-Managed code  ·  Page layers
+-Reusable styles and element packs
+-HTML5 & CSS3  ·  Cross-browser
+-SEO  ·  Multilingual websites
+-Responsive design  ·  Fully customizable CSS
+-Element editor - create & share elements
+-Easy integration of scripts  ·  Databases
+-Image and code optimisation
+-Powered by Chromium
+-Local webserver for PHP & DB tests
+
+[Pingendo](http://pingendo.com/)  Create quality HTML prototypes quickly, using popular open source tools like Bootstrap, LESS, Fontawesome and more. Work visually and with sources simultaneously, with no need to export. Generate only standard Bootstrap 3.3 HTML and LESS markup.
+
+
+[Bootstrap Studio](https://bootstrapstudio.io/) Introducing Bootstrap Studio - A powerful desktop app for creating responsive websites using the Bootstrap framework. Bootstrap Studio is a desktop application that helps you create beautiful websites. It comes with a large number of built-in components, which you can drag and drop to assemble responsive web pages. It is built on top of the hugely popular Bootstrap framework, and exports clean and semantic HTML. Thousands of developers and designers use it every day. We are sure you'll love it too! Bootstrap Studio comes with a large number of pretty components for building responsive pages. We've got headers, footers, galleries, slideshows and even basic elements like spans and divs. See some of them below.
 
 
 
