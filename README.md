@@ -5,11 +5,21 @@ When you are stuck using Javascript, React can help with it's component architec
 
 # Key Items
 
-[create-react-app](https://github.com/facebookincubator/create-react-app) Facebook's official starting point.
+[create-react-app](https://github.com/facebookincubator/create-react-app) Facebook's official starting point
+
+[Nuclide](https://github.com/facebook/nuclide)  [Nuclide.io](https://nuclide.io/) An open IDE for web and native mobile development, built on top of Atom http://nuclide.io
+
+- [full documentation for Nuclide](http://nuclide.io/docs)
+-  [Client Installation](http://nuclide.io/docs/editor/setup/#windows)
+-  [Server Installation](http://nuclide.io/docs/editor/setup/#installing-nuclide-server)
+- [Getting Started Feature Walkthroughh](http://nuclide.io/docs/quick-start/getting-started/)
+
+
 
 [React Developer Tools](https://github.com/facebook/react-devtools) An [extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) that allows inspection of React component hierarchy in [Chrome Developer Tools](https://github.com/facebook/react-devtools/tree/master/shells). And [Firefox too](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) and [Electron](https://github.com/facebook/react-devtools/tree/master/shells)
 
-[DevTools for Redux](https://github.com/gaearon/redux-devtools  DevTools for Redux with hot reloading, action replay, and customizable UI http://youtube.com/watch?v=xsSnOQynTHs
+[DevTools for Redux](https://github.com/gaearon/redux-devtools  DevTools for Redux with hot reloading, action replay, and customizable UI 
+http://youtube.com/watch?v=xsSnOQynTHs
 
 [Install MongoDB on Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/) Required by some React applications.
 
