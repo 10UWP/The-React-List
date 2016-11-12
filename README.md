@@ -7,11 +7,24 @@ When you are stuck using Javascript, React can help with it's component architec
 
 [create-react-app](https://github.com/facebookincubator/create-react-app) Facebook's official starting point.
 
+[React Developer Tools](https://github.com/facebook/react-devtools) An [extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) that allows inspection of React component hierarchy in Chrome Developer Tools. And [Firefox too](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) and [Electron](https://github.com/facebook/react-devtools/tree/master/shells)
 
 [Install MongoDB on Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/) Required by some React applications.
 
 
 [The Current Node.js](https://nodejs.org/en/download/current/) Select 64 bit such as [Node.js 7.1.0 64 bit for example](https://nodejs.org/dist/v7.1.0/win-x64/node.exe)
+
+## If Victorian Engineers had Invented React Instead of Facebook
+
+Whispers of Brass and Steam Engines...
+
+[Chugga chugga Choo Choo](http://react-cosmos.github.io/react-cosmos/?component=FlatrisGame&fixture=new-game-running)
+
+![](https://avatars0.githubusercontent.com/u/23018767?v=3&s=200)
+
+[React Cosmos](https://github.com/react-cosmos/react-cosmos) and   [React Cosmos Atom](https://github.com/react-cosmos/react-cosmos-atom)
+
+[React Server](https://react-server.io/) the ideas behind [Facebook's Big Pipe](https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/), to make sure that your site shows up as quickly as humanly possible for your users. Once you're hungry for more, dig into the [docs](https://react-server.io/docs) and [react-server](https://github.com/redfin/react-server) itself. If you find performance annoying, you need to get [Slo, Bro](https://github.com/tfe/slowbro).
 
 # CMS
 
