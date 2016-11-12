@@ -7,7 +7,9 @@ When you are stuck using Javascript, React can help with it's component architec
 
 [create-react-app](https://github.com/facebookincubator/create-react-app) Facebook's official starting point.
 
-[React Developer Tools](https://github.com/facebook/react-devtools) An [extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) that allows inspection of React component hierarchy in Chrome Developer Tools. And [Firefox too](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) and [Electron](https://github.com/facebook/react-devtools/tree/master/shells)
+[React Developer Tools](https://github.com/facebook/react-devtools) An [extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) that allows inspection of React component hierarchy in [Chrome Developer Tools](https://github.com/facebook/react-devtools/tree/master/shells). And [Firefox too](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) and [Electron](https://github.com/facebook/react-devtools/tree/master/shells)
+
+[DevTools for Redux](https://github.com/gaearon/redux-devtools  DevTools for Redux with hot reloading, action replay, and customizable UI http://youtube.com/watch?v=xsSnOQynTHs
 
 [Install MongoDB on Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/) Required by some React applications.
 
@@ -23,6 +25,13 @@ Whispers of Brass and Steam Engines...
 ![](https://avatars0.githubusercontent.com/u/23018767?v=3&s=200)
 
 [React Cosmos](https://github.com/react-cosmos/react-cosmos) and   [React Cosmos Atom](https://github.com/react-cosmos/react-cosmos-atom)
+
+[Component Playground](https://github.com/FormidableLabs/component-playground) A component for rendering React components with editable source and live preview https://formidable.com/open-source/component-playground/
+
+[react pixi](https://github.com/Izzimach/react-pixi)  Create/control a [Pixi.js](https://github.com/pixijs/pixi.js) canvas using React
+
+[react three renderer](https://github.com/toxicFork/react-three-renderer)  Render into a three.js canvas using React. https://toxicfork.github.com/react-three-renderer-example/
+[draft-js](https://github.com/facebook/draft-js) A React framework for building text editors. https://facebook.github.io/draft-js/
 
 [React Server](https://react-server.io/) the ideas behind [Facebook's Big Pipe](https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/), to make sure that your site shows up as quickly as humanly possible for your users. Once you're hungry for more, dig into the [docs](https://react-server.io/docs) and [react-server](https://github.com/redfin/react-server) itself. If you find performance annoying, you need to get [Slo, Bro](https://github.com/tfe/slowbro).
 
