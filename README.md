@@ -1,3 +1,4 @@
+
 # :space_invader: The-React-List
 
 When you are stuck using Javascript, React can help with it's component architecture or maybe you will use it becuase it has become a tidal wave... :o: Rant :o: Over 90% of Desktop PC's run Windows and the number of React tools that are not tested on Windows boggles the rational human mind. Even Facebook, has had a long standing issue with both Flow and Nuclide that has only recently as of Sept 2016 are becoming workable.
@@ -5,7 +6,11 @@ When you are stuck using Javascript, React can help with it's component architec
 # Key Items
 
 [create-react-app](https://github.com/facebookincubator/create-react-app) Facebook's official starting point.
+
+
 [Install MongoDB on Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/) Required by some React applications.
+
+
 [The Current Node.js](https://nodejs.org/en/download/current/) Select 64 bit such as [Node.js 7.1.0 64 bit for example](https://nodejs.org/dist/v7.1.0/win-x64/node.exe)
 
 # CMS
@@ -14,6 +19,8 @@ When you are stuck using Javascript, React can help with it's component architec
 
 [Keystone](http://keystonejs.com/) The Version 4 release of the Keystone Node.js based CMS will be based on React. 
 - See the Master branch at https://github.com/keystonejs/keystone
+
+
 :o: Instaltion fails on Windows due to somme dippy dep - http://keystonejs.com/getting-started/
 
 ### Gatsby
@@ -81,6 +88,8 @@ When you are stuck using Javascript, React can help with it's component architec
 
 - Relax is a powerful new generation CMS on top of React and Node.js which aims for a better way of building websites.
 - It features a live page builder based on components and a smart and easy way of binding dynamic data to them.
+
+
 :o: Installation fails on Windows (and probably everywhere) if you have Python 3.5 installed instead of some old retro Python 2 hardcoded dep.
 
 ### Phenomic
@@ -97,7 +106,9 @@ When you are stuck using Javascript, React can help with it's component architec
 - Phenomic uses peer dependencies so you have total control over the dependencies. You will never have to wait to use latest React version if it's compatible with your code and Phenomic requirements (eg: React 0.14 or 15.0, you decide).
 - Phenomic does not have any "optional" dependencies as a real dependency. For example, Gatsby has in it's dependencies LESS, Sass and PostCSS (yeah maybe that's too much). By default, Phenomic will just install PostCSS (since it's required in the phenomic-theme-base), but you can remove it (since it will be added in your package.json) and replace with any dependency you want (or none).
 - Phenomic is covered by a lot of automated unit, integration and functional tests to avoid bugs and regressions.
-:o: Installation fails on Windows due to some dippy dep.
+
+
+:o: Installation fails on Windows due to some dippy dep. https://phenomic.io/docs/setup/
 
 
 ### Boldr
