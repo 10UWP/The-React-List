@@ -7,14 +7,10 @@ When you are stuck using Javascript, React can help with it's component architec
 
 [create-react-app](https://github.com/facebookincubator/create-react-app) Facebook's official starting point
 
-[Nuclide](https://github.com/facebook/nuclide)  [Nuclide.io](https://nuclide.io/) An open IDE for web and native mobile development, built on top of Atom http://nuclide.io
+[Nuclide](https://github.com/facebook/nuclide)  [Nuclide.io](https://nuclide.io/) An open IDE for web and native mobile development, built on top of Atom http://nuclide.io 
+- See next section for details on Nuclide.
 
-- [full documentation for Nuclide](http://nuclide.io/docs)
--  [Client Installation](http://nuclide.io/docs/editor/setup/#windows)
--  [Server Installation](http://nuclide.io/docs/editor/setup/#installing-nuclide-server)
-- [Getting Started Feature Walkthroughh](http://nuclide.io/docs/quick-start/getting-started/)
-- [WatchMan](https://facebook.github.io/watchman/) Watchman exists to watch files and record when they change. It can also trigger actions (such as rebuilding assets) when matching files change. [GitHub](https://github.com/facebook/watchman) - [Install](https://facebook.github.io/watchman/docs/install.html) - [Windows Issues](https://github.com/facebook/watchman/issues/19) Watchman provides both a real-time file change subscription mechanism (echoing what the native OS facilities provide, but in a cross-platform way) and functionality to query the view of the filesystem without talking to the filesystem. The latter part of this may sound strange, but when you are dealing with a very large directory tree, the act of looking at a "cold" portion of it can block for a non-trivial amount of time. Whether watchman is necessary depends on your needs.
-
+[WatchMan](https://facebook.github.io/watchman/) Watchman exists to watch files and record when they change. It can also trigger actions (such as rebuilding assets) when matching files change. [GitHub](https://github.com/facebook/watchman) - [Install](https://facebook.github.io/watchman/docs/install.html) - [Windows Issues](https://github.com/facebook/watchman/issues/19) Watchman provides both a real-time file change subscription mechanism (echoing what the native OS facilities provide, but in a cross-platform way) and functionality to query the view of the filesystem without talking to the filesystem. The latter part of this may sound strange, but when you are dealing with a very large directory tree, the act of looking at a "cold" portion of it can block for a non-trivial amount of time. Whether watchman is necessary depends on your needs.
 
 [React Developer Tools](https://github.com/facebook/react-devtools) An [extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) that allows inspection of React component hierarchy in [Chrome Developer Tools](https://github.com/facebook/react-devtools/tree/master/shells). And [Firefox too](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) and [Electron](https://github.com/facebook/react-devtools/tree/master/shells)
 
@@ -25,6 +21,50 @@ http://youtube.com/watch?v=xsSnOQynTHs
 
 
 [The Current Node.js](https://nodejs.org/en/download/current/) Select 64 bit such as [Node.js 7.1.0 64 bit for example](https://nodejs.org/dist/v7.1.0/win-x64/node.exe)
+
+# Nuclide
+
+[Nuclide](https://github.com/facebook/nuclide)  [Nuclide.io](https://nuclide.io/) An open IDE for web and native mobile development, built on top of Atom http://nuclide.io
+
+:o: Mostly, Facebook stuff works well on Windows with odd areas of incompetence such as Nuclide which has been on a long and tortured journey to be "mostly working" - https://github.com/facebook/nuclide/issues/321
+
+- [full documentation for Nuclide](http://nuclide.io/docs)
+-  [Client Installation](http://nuclide.io/docs/editor/setup/#windows)
+-  [Server Installation](http://nuclide.io/docs/editor/setup/#installing-nuclide-server)
+- [Getting Started Feature Walkthroughh](http://nuclide.io/docs/quick-start/getting-started/)
+
+By default, Nuclide does not install all of the recommended Atom packages that enhance the Nuclide experience.
+Recommended packages include:
+
+-    tool-bar to enable the Nuclide toolbar.
+-    sort-lines to enable sorting lines of text.
+-    language-ocaml to enable OCaml language syntax highlighting.
+-    language-babel to enable language grammar for JS, Flow and React JS, etc.
+-    …and others under package-deps.
+
+
+In order to install all of the recommended packages:
+
+ -   Go to Packages | Settings View | Manage Packages.
+ -   Search for the nuclide package, and click on the package’s Settings button.
+ -   Select the Install Recommended Packages on Startup checkbox.
+    
+Installing Nuclide Server
+
+
+If you want to use Nuclide for remote development, you’ll also need to set up the npm nuclide package. Instructions can be found in the Remote Development docs.
+
+
+Other Installations
+
+To benefit from all of Nuclide’s features, we recommend you also install the following:
+
+-    Watchman - version 3.2 or above. It must be in /usr/local/bin/ or in your $PATH environment variable.   Without Watchman, Nuclide will lose some functionality of its Mercurial, Remote Development, and Quick Open features.
+-    [Flow](https://nuclide.io/docs/languages/flow/) Nuclide has deep, built-in support for [Flow-enabled JavaScript](http://flowtype.org/).   [Flow recently became supported on Windows](https://flowtype.org/blog/2016/08/01/Windows-Support.html)
+-    [Hack](https://nuclide.io/docs/languages/hack/) Nuclide has been built from the start to provide a great IDE experience for Hack development. Hack is a programming language for [HHVM](http://hhvm.com/) and HVVM is a performance enhanced PHP with Hack glued on top.  Currently, HHVM is not supported on Windows, so this integration has limited viability on that platform. However, [work is being done to port HHVM to Windows](https://github.com/facebook/hhvm/issues/5460).
+-    [Mercurial](https://nuclide.io/docs/features/hg/) - Atom provides [Git support in its core packages](https://atom.io/docs/v1.5.3/using-atom-version-control-in-atom). Given Facebook’s heavy use of Mercurial, Nuclide extends Atom’s source control integration with support for Mercurial.   Nuclide’s support for Mercurial is much more full-featured that its support for Git. Nuclide has not yet tried to extend the default support for Git provided by Atom.
+
+ 
 
 ## If Victorian Engineers had Invented React Instead of Facebook
 
