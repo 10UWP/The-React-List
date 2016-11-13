@@ -13,7 +13,7 @@ When you are stuck using Javascript, React can help with it's component architec
 -  [Client Installation](http://nuclide.io/docs/editor/setup/#windows)
 -  [Server Installation](http://nuclide.io/docs/editor/setup/#installing-nuclide-server)
 - [Getting Started Feature Walkthroughh](http://nuclide.io/docs/quick-start/getting-started/)
-
+- [WatchMan](https://facebook.github.io/watchman/) Watchman exists to watch files and record when they change. It can also trigger actions (such as rebuilding assets) when matching files change. [GitHub](https://github.com/facebook/watchman) - [Install](https://facebook.github.io/watchman/docs/install.html) - [Windows Issues](https://github.com/facebook/watchman/issues/19) Watchman provides both a real-time file change subscription mechanism (echoing what the native OS facilities provide, but in a cross-platform way) and functionality to query the view of the filesystem without talking to the filesystem. The latter part of this may sound strange, but when you are dealing with a very large directory tree, the act of looking at a "cold" portion of it can block for a non-trivial amount of time. Whether watchman is necessary depends on your needs.
 
 
 [React Developer Tools](https://github.com/facebook/react-devtools) An [extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) that allows inspection of React component hierarchy in [Chrome Developer Tools](https://github.com/facebook/react-devtools/tree/master/shells). And [Firefox too](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) and [Electron](https://github.com/facebook/react-devtools/tree/master/shells)
