@@ -71,7 +71,7 @@ To benefit from all of Nuclide’s features, we recommend you also install the f
 
 ## If Victorian Engineers had Invented React Instead of Facebook
 
-Whispers of Brass and Steam Engines...
+Whispers of Brass and Steam Engines... This is a section that calls out some of the more innovative "thinking outside the box" items are might not be the same old boring regurgitated web crap everyone has had to put up with during the last few years of the "Javascript Library Wars"
 
 [Chugga chugga Choo Choo](http://react-cosmos.github.io/react-cosmos/?component=FlatrisGame&fixture=new-game-running)
 
@@ -102,7 +102,7 @@ What Structor is not:
 [react three renderer](https://github.com/toxicFork/react-three-renderer)  Render into a three.js canvas using React. https://toxicfork.github.com/react-three-renderer-example/
 [draft-js](https://github.com/facebook/draft-js) A React framework for building text editors. https://facebook.github.io/draft-js/
 
-[Sprintly Kanban](https://github.com/sprintly/sprintly-kanban  A Kanban Board for Sprintly https://kanban.sprint.ly This repository is no longer in active development and is now for example purposes only. We are not currently providing OAuth tokens for this application.
+[Sprintly Kanban](https://github.com/sprintly/sprintly-kanban)  A Kanban Board for Sprintly https://kanban.sprint.ly This repository is no longer in active development and is now for example purposes only. We are not currently providing OAuth tokens for this application.
 
 [React Server](https://react-server.io/) the ideas behind [Facebook's Big Pipe](https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/), to make sure that your site shows up as quickly as humanly possible for your users. Once you're hungry for more, dig into the [docs](https://react-server.io/docs) and [react-server](https://github.com/redfin/react-server) itself. If you find performance annoying, you need to get [Slo, Bro](https://github.com/tfe/slowbro).
 
@@ -112,7 +112,7 @@ Things that glow neon green distantly on the horizen on a foggy night.
 
 [Wercker](http://www.wercker.com/) Deploy Faster to Kubernetes with Wercker - Wercker is a Docker-Native CI/CD Automation platform for Kubernetes & Microservice Deployments
 
-[Birdwatch](http://birdwatch.matthiasnehlsen.com/#*)  https://github.com/matthiasn/Birdwatch Tweet stream analysis and visualization with real-time updates. http://matthiasnehlsen.com/  - BirdWatch is a reactive web application for visualizing a stream of live tweets. It started out as a playground for trying out different ways of solving the same problem. There is a server-side application which subscribes to the Twitter Streaming API and then allows a client-side single-page application to perform a live search, meaning that a search on historical tweets up until now will be performed and then updated as new tweets matching the same search are retrieved. https://github.com/matthiasn/systems-toolbox Tools and building blocks for building Systems in Clojure and ClojureScript
+[Birdwatch](http://birdwatch.matthiasnehlsen.com/)  https://github.com/matthiasn/Birdwatch Tweet stream analysis and visualization with real-time updates. http://matthiasnehlsen.com/  - BirdWatch is a reactive web application for visualizing a stream of live tweets. It started out as a playground for trying out different ways of solving the same problem. There is a server-side application which subscribes to the Twitter Streaming API and then allows a client-side single-page application to perform a live search, meaning that a search on historical tweets up until now will be performed and then updated as new tweets matching the same search are retrieved. https://github.com/matthiasn/systems-toolbox Tools and building blocks for building Systems in Clojure and ClojureScript
 
 # CMS
 
