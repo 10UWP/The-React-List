@@ -14,7 +14,7 @@ When you are stuck using Javascript, React can help with it's component architec
 
 [React Developer Tools](https://github.com/facebook/react-devtools) An [extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) that allows inspection of React component hierarchy in [Chrome Developer Tools](https://github.com/facebook/react-devtools/tree/master/shells). And [Firefox too](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) and [Electron](https://github.com/facebook/react-devtools/tree/master/shells)
 
-[DevTools for Redux](https://github.com/gaearon/redux-devtools  DevTools for Redux with hot reloading, action replay, and customizable UI 
+[DevTools for Redux](https://github.com/gaearon/redux-devtools)  DevTools for Redux with hot reloading, action replay, and customizable UI 
 http://youtube.com/watch?v=xsSnOQynTHs
 
 [Install MongoDB on Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/) Required by some React applications.
@@ -49,13 +49,16 @@ In order to install all of the recommended packages:
  -   Search for the nuclide package, and click on the package’s Settings button.
  -   Select the Install Recommended Packages on Startup checkbox.
     
-Installing Nuclide Server
+#### Installing Nuclide Server
+
+In addition to local development, Nuclide supports remote development. Using one of three authentication methods (Password, an SSH agent, or a private key), you can connect to a project on a remote machine. This project is then added to your Project Explorer’s File Tree as a remote project where development occurs just it would with a local project.
+
+The [client is set up via an Atom apm package](https://nuclide.io/docs/editor/setup/) on your local machine. The server is set up via a [Node npm package](https://www.npmjs.com/package/nuclide) on any machine where you have remote projects to which Nuclide will connect.
+
+Instructions can be found in the [Remote Development docs](https://nuclide.io/docs/features/remote/#nuclide-server__prerequisites).
 
 
-If you want to use Nuclide for remote development, you’ll also need to set up the npm nuclide package. Instructions can be found in the Remote Development docs.
-
-
-Other Installations
+#### Other Installations
 
 To benefit from all of Nuclide’s features, we recommend you also install the following:
 
@@ -78,12 +81,38 @@ Whispers of Brass and Steam Engines...
 
 [Component Playground](https://github.com/FormidableLabs/component-playground) A component for rendering React components with editable source and live preview https://formidable.com/open-source/component-playground/
 
+[Structor](https://github.com/ipselon/structor) - An advanced visual editor for React components - Beginning from version 2 Structor should be installed as a local npm module into react-boilerplate project. As far as Structor uses a custom metadata in order to operate the project's components, there is a fork of react-boilerplate project genuinely prepared for Structor. Please find the instruction of how to install and start working with Structor in compatible fork of the react-boilerplate project here: https://github.com/ipselon/react-boilerplate;
+
+What Structor is:
+-    Structor is a visual editor (WYSIWYG editor) - you may construct a React component of any complexity combining components and styling them right on the page.
+-    Structor is a scaffolding tool - you may generate scaffolds of different types of React components (dumbs, containers) with different configuration.
+-    Structor is a library tool - you may find many full-fledged components which can be installed into your project from Structor Market.
+-    Structor is a playground tool - you may modify the source code and have an instant feedback immediately because of embedded Hot Reloading tools.
+
+What Structor is not:
+-    Structor is not a graphical Web design tool.
+-    Structor is not a Web site/Web app/Web pages generator tool.
+-    Structor does not modify the source code of your project.
+
+- There is a "marketplace" of downloadable components inside of Structor at https://helmetrex.com with a directory of [Projects](https://helmetrex.com/projects) and [Generators](https://helmetrex.com/generators) and some [videos](https://helmetrex.com/videos)
+- Two articles [Structor — a playground for React Apps](https://medium.com/@alex_pustovalov/structor-as-a-playground-for-react-applications-49accf4544b8#.6xs08k9zy) and [How we can help to organize your React components](https://medium.com/@alex_pustovalov/how-we-can-help-to-organize-your-react-components-61d4bc94c9ac#.urs39gqrv)
+
 [react pixi](https://github.com/Izzimach/react-pixi)  Create/control a [Pixi.js](https://github.com/pixijs/pixi.js) canvas using React
 
 [react three renderer](https://github.com/toxicFork/react-three-renderer)  Render into a three.js canvas using React. https://toxicfork.github.com/react-three-renderer-example/
 [draft-js](https://github.com/facebook/draft-js) A React framework for building text editors. https://facebook.github.io/draft-js/
 
+[Sprintly Kanban](https://github.com/sprintly/sprintly-kanban  A Kanban Board for Sprintly https://kanban.sprint.ly This repository is no longer in active development and is now for example purposes only. We are not currently providing OAuth tokens for this application.
+
 [React Server](https://react-server.io/) the ideas behind [Facebook's Big Pipe](https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/), to make sure that your site shows up as quickly as humanly possible for your users. Once you're hungry for more, dig into the [docs](https://react-server.io/docs) and [react-server](https://github.com/redfin/react-server) itself. If you find performance annoying, you need to get [Slo, Bro](https://github.com/tfe/slowbro).
+
+# Area 51
+
+Things that glow neon green distantly on the horizen on a foggy night.
+
+[Wercker](http://www.wercker.com/) Deploy Faster to Kubernetes with Wercker - Wercker is a Docker-Native CI/CD Automation platform for Kubernetes & Microservice Deployments
+
+[Birdwatch](http://birdwatch.matthiasnehlsen.com/#*)  https://github.com/matthiasn/Birdwatch Tweet stream analysis and visualization with real-time updates. http://matthiasnehlsen.com/  - BirdWatch is a reactive web application for visualizing a stream of live tweets. It started out as a playground for trying out different ways of solving the same problem. There is a server-side application which subscribes to the Twitter Streaming API and then allows a client-side single-page application to perform a live search, meaning that a search on historical tweets up until now will be performed and then updated as new tweets matching the same search are retrieved. https://github.com/matthiasn/systems-toolbox Tools and building blocks for building Systems in Clojure and ClojureScript
 
 # CMS
 
